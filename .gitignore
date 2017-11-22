@@ -70,4 +70,8 @@ output.json #Since Android Studio 3.0
 
 obj/
 
+<<<<<<< HEAD
 .externalNativeBuild
+=======
+.externalNativeBuild
+>>>>>>> parent of 21798f5... Merge remote-tracking branch 'origin/master'
