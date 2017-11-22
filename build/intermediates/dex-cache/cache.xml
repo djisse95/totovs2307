@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\27.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f10fed27d6d0b4aae675f17b33c639b4d5a0ed93">
+        <dex dex="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-27.0.1_85b3fbaed8e971b52740aacff36bc2d536edf806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Samnang\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\pre-dexed\debug\common-1.0.0_e151bceb9ec9d6e8cb3ba500aa46a3b6e9b7e547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Samnang\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_6117f4931d3bc69aeaf7f174a2b9521fb5cc3748.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\27.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69f7591c9ff9238ff226e264c0260bb9f1ce0029">
+        <dex dex="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-27.0.1_f2001f7c2fc7b8e29479b7a934afcb12ebc61a9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\exploded-aar\com.android.support\support-fragment\27.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac5e6ae168ef77f0b0b1e3245d7afd7d32f710c3">
+        <dex dex="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-27.0.1_251af151b118a1b3bc09010f39ed4068cf8b51e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Samnang\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.1\287742f1c6cea6d9126670e9f031890b0462362a\support-annotations-27.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="287742f1c6cea6d9126670e9f031890b0462362a">
+        <dex dex="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\pre-dexed\debug\support-annotations-27.0.1_3bf52645d9835283b0627fd904c6718ac0e40c23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.0_950d72b9c492ae0dfa046faf1e83265985606312.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_b24ff2e17425b3f6b3c47afc69da23b45b7713e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\27.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d928394035bd4f7d2ee9e1c63d45f9ec088e21a4">
+        <dex dex="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-27.0.1_d69d275063cdcc5e7b59e1d4280bd00621fc5e02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\exploded-aar\com.android.support\support-compat\27.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="91dae39a5cc837ad2a829c0dc69c57ab8d69d22b">
+        <dex dex="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-27.0.1_a52e0657a3a5cf7fae7d37e4b465ea6b43407c4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\27.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4f9ace23785adf79a174d569bde261f032e1190">
+        <dex dex="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-27.0.1_365dbf1d460da6ce68d820ece56744e8d73dc9a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Samnang\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\pre-dexed\debug\common-1.0.0_af2f8532c74af95b0591e174c5caf4dab74033b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\27.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="59cbbfb2937ebed98c8bb8882b7112d16358014e">
+        <dex dex="C:\Users\Samnang\AndroidStudioProjects\totovs2307\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-27.0.1_a8168eb8cb52c6fdf26d0a580d9e3d2b2b778ed8.jar" />
+    </item>
+
+</items>
