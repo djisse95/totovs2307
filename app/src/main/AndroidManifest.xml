@@ -15,8 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".homepage" />
-        <activity android:name=".login"></activity>
+        <activity android:name=".Login" />
+        <activity android:name=".Homepage" />
+        <activity android:name=".CreateBooking"></activity>
     </application>
 
 </manifest>

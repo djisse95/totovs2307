@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
-
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
@@ -26,7 +25,14 @@ public class MainActivity extends AppCompatActivity {
         samnang.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                 intent = new Intent(MainActivity.this, login.class);
+                intent = new Intent(MainActivity.this, Login.class);
+                startActivity(intent);
+            }
+        });
+        vuthy.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                intent = new Intent(MainActivity.this, CreateBooking.class);
                 startActivity(intent);
             }
         });

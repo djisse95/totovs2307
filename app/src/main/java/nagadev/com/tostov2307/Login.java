@@ -1,19 +1,16 @@
 package nagadev.com.tostov2307;
 
 import android.content.Intent;
-import android.graphics.Typeface;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.TextView;
 import android.widget.Toast;
 
+public class Login extends AppCompatActivity {
 
-
-public class login extends AppCompatActivity {
     private static final String TAG = "MainActivity";
     private Button login_bt;
     private Button reg_bt;
@@ -28,11 +25,12 @@ public class login extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_login);
 
-        login_bt = (Button) findViewById(R.id.loginButton);
+        Log.d(TAG, "onCreate: Starting.");
+
+        login_bt = findViewById(R.id.loginButton);
         login_bt.setOnClickListener(new View.OnClickListener() {
-
             @Override
             public void onClick(View view) {
                 Log.d(TAG, "onClick: Clicked login_bt.");
@@ -41,7 +39,7 @@ public class login extends AppCompatActivity {
                 String pass = ((EditText) findViewById(R.id.passInput)).getText().toString();
                 boolean pass_check = userPass.equals(pass);
                 if (phone_check && pass_check){
-                    intent = new Intent(login.this, homepage.class);
+                    intent = new Intent(Login.this , Homepage.class);
                     startActivity(intent);
                     Toast.makeText(getApplicationContext(), truedisplay, Toast.LENGTH_SHORT).show();}
                 else{
@@ -50,4 +48,3 @@ public class login extends AppCompatActivity {
         });
     }
 }
-
