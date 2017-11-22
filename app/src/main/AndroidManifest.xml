@@ -18,7 +18,12 @@
         <activity android:name=".Login" />
         <activity android:name=".Homepage" />
         <activity android:name=".CreateBooking" />
+<<<<<<< HEAD
         <activity android:name=".Register"></activity>
+=======
+        <activity android:name=".List_Booking" />
+        <activity android:name=".BookingInfo"></activity>
+>>>>>>> master
     </application>
 
 </manifest>
