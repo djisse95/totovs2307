@@ -37,7 +37,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        visal.setOnClickListener(new View.OnClickListener() {
 
+            @Override
+            public void onClick(View view) {
+                intent = new Intent(MainActivity.this, Register.class);
+                startActivity(intent);
+            }
+        });
 
     }
 }
