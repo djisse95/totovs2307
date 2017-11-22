@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Tostov2307</string>
+    <string name="_6_00pm">6:00PM</string>
+    <string name="_4_30pm">4:30PM</string>
     <string-array name="station_array">
         <item>Phnom Penh</item>
         <item>Battambong</item>

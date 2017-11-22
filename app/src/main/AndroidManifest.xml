@@ -17,7 +17,9 @@
         </activity>
         <activity android:name=".Login" />
         <activity android:name=".Homepage" />
-        <activity android:name=".CreateBooking"></activity>
+        <activity android:name=".CreateBooking" />
+        <activity android:name=".List_Booking" />
+        <activity android:name=".BookingInfo"></activity>
     </application>
 
 </manifest>
